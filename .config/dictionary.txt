@@ -63,3 +63,4 @@ hdrs
 testuser
 testsecret
 keygen
+testpass
